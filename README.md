@@ -11,7 +11,7 @@ _Imagens com o Bing
 O que garantiu um conteúdo enxuto e direto.  
   
 Adorei o resultado final 😍  
-  
+ [Confira aqui](https://github.com/ErikaVazCravo/ebook-usando-ia/blob/main/Ebook%20-%20A%20Jornada%20de%20Octocat-Git%20e%20GitHub%20para%20Iniciantes.pdf)
 
 ### Conecte-se comigo 💻
 
@@ -36,7 +36,4 @@ Adorei o resultado final 😍
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ErikaVazCravo&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ErikaVazCravo&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
-
-
 ![evc](https://github.com/ErikaVazCravo/ebook-usando-ia/blob/main/Imagens%20usadas/octocat-1714513122400.png?raw=true)
-
