@@ -10,10 +10,9 @@ _Texto com o ChatGPT
 _Imagens com o Bing  
 O que garantiu um conteúdo enxuto e direto.  
   
-Adorei o resultado final 😍 
-
-[Confira aqui o ebook](https://github.com/ErikaVazCravo/ebook-usando-ia/blob/main/Ebook%20-%20A%20Jornada%20de%20Octocat-Git%20e%20GitHub%20para%20Iniciantes.pdf)
+Adorei o resultado final 😍  
   
+
 ### Conecte-se comigo 💻
 
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://web.dio.me/users/erikita_vaz?tab=achievements)
@@ -38,4 +37,6 @@ Adorei o resultado final 😍
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ErikaVazCravo&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ErikaVazCravo&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
-(https://github.com/ErikaVazCravo/ebook-usando-ia/blob/main/Imagens%20usadas/octocat-1714513122400.png)
+
+![evc](https://github.com/ErikaVazCravo/ebook-usando-ia/blob/main/Imagens%20usadas/octocat-1714513122400.png?raw=true)
+
