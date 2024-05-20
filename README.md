@@ -5,13 +5,42 @@ Estou empolgada em compartilhar com vocês meu mais recente projeto: um e-book c
 📘 Título do E-book: "A Jornada de Octocat: Git e GitHub para Iniciantes"  
   
 Este projeto foi desenvolvido para o Bootcamp Santander 2024 - Fundamentos de IA para Devs, com as aulas de  [](https://www.linkedin.com/in/ACoAABLpUBgBQzTIZyVSL0M4NMZu0mXvv5wCRQ8)[Felipe Silva Aguiar](https://www.linkedin.com/in/felipeaguiar-exe/).  
-Foi uma experiência especial porque foi criado com o auxílio de IA´s:  
-_Texto com o ChatGPT  
-_Imagens com o Bing  
-O que garantiu um conteúdo enxuto e direto.  
-  
-Adorei o resultado final 😍  
- [Confira aqui](https://github.com/ErikaVazCravo/ebook-usando-ia/blob/main/Ebook%20-%20A%20Jornada%20de%20Octocat-Git%20e%20GitHub%20para%20Iniciantes.pdf)
+
+## 💻 Tecnologias utilizadas no projeto
+
+- [ChatGPT](https://chat.openai.com/) 
+- [Bing - Copilot](https://www.bing.com/images/create?cc=br)
+- [LibreOffice - Impress](https://pt-br.libreoffice.org/descubra/impress/)
+
+## 🧠 Prompts
+
+
+ChatGPT：
+
+|   Ação   | prompt                                                                                                                                                                                                                                                                         |
+| :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+|  Título  | crie um título de ebook sobre o tema git e github, o ebook é do nicho de programação e o subnicho git e github para iniciantes, o título deve ser épico e curto e tenha uma temática o mascote do github - octocatd. Me liste 5 variações de títulos              |
+| Descrição de imagem | Para este título: "A Jornada de Octocat: Git e GitHub para Iniciantes" crie 5 variações de descrição de imagem para a capa de ebook|
+| Conteúdo | Faça um texto para ebook, com foco em git e github para iniciantes, listando os principais comandos com exemplos em código - {REGRAS}: Explique sempre de uma maneira simples, Deixe o texto enxuto, Sempre traga exemplos de códigos em contexto reais, Sempre deixe um título sugestivo por tópico |
+
+Copilot:
+
+|  Ação  | prompt                                                                                 |
+| :----: | -------------------------------------------------------------------------------------- |
+| título | Gato preto com 6 braços (como um polvo) vestido como um explorador em uma paisagem digital com céu noturno com código fonte, com um mapa de código-fonte em uma mão e uma chave na outra. |
+
+## ✨ Features
+
+- Conteúdo gerado via ChatGPT
+- Imagens geradas via Bing - Copilot
+
+## 📚 Materiais
+
+As imagens utilizadas estão na pasta `Imagens`.
+
+[Confira o ebook aqui](https://github.com/ErikaVazCravo/ebook-usando-ia/blob/main/Ebook%20-%20A%20Jornada%20de%20Octocat-Git%20e%20GitHub%20para%20Iniciantes.pdf)
+
+
 
 ### Conecte-se comigo 💻
 
