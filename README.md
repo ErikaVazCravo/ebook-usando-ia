@@ -36,7 +36,7 @@ Copilot:
 
 ## 📚 Materiais
 
-As imagens utilizadas estão na pasta `Imagens`.
+As imagens utilizadas estão na pasta `Imagens usadas`.
 
 [Confira o ebook aqui](https://github.com/ErikaVazCravo/ebook-usando-ia/blob/main/Ebook%20-%20A%20Jornada%20de%20Octocat-Git%20e%20GitHub%20para%20Iniciantes.pdf)
 
